@@ -1,0 +1,811 @@
+
+
+*******************************************************************************
+Sat Sep 28 19:13:34 2024
+
+
+FIT:    data read from "dataRN.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.1214628891e+02   0.00e+00  7.08e+01    1.000000e+00   1.000000e+00
+   5 4.1069775881e+00  -2.10e-08  7.08e-04    1.000156e+00   2.168943e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 4.10698
+rel. change during last iteration : -2.09989e-13
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.7165
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.513372
+p-value of the Chisq distribution (FIT_P)              : 0.847345
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.00016          +/- 0.002502     (0.2502%)
+b               = 0.0216894        +/- 0.07434      (342.7%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.425  1.000 
+
+
+*******************************************************************************
+Sat Sep 28 19:13:41 2024
+
+
+FIT:    data read from "dataRN.dat" u 1:2
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 8.6761537833e+03   0.00e+00  3.33e+03    1.000156e+00   2.168943e-02
+   3 3.9904338687e+03  -3.69e-02  3.33e+00    9.955545e-01   2.170728e-02
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3990.43
+rel. change during last iteration : -3.68628e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 22.3339
+variance of residuals (reduced chisquare) = WSSR/ndf   : 498.804
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.995555         +/- 0.00203      (0.2039%)
+b               = 0.0217073        +/- 9.549        (4.399e+04%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.673  1.000 
+
+
+*******************************************************************************
+Sat Sep 28 19:14:08 2024
+
+
+FIT:    data read from "dataRN.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 6.2247236184e+00   0.00e+00  7.04e+01    9.955545e-01   2.170728e-02
+   3 4.1069776131e+00  -1.42e-04  7.04e-02    1.000156e+00   2.170584e-02
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.10698
+rel. change during last iteration : -1.41567e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.7165
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.513372
+p-value of the Chisq distribution (FIT_P)              : 0.847345
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.00016          +/- 0.002502     (0.2502%)
+b               = 0.0217058        +/- 0.07434      (342.5%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.425  1.000 
+
+
+*******************************************************************************
+Sat Sep 28 19:59:54 2024
+
+
+FIT:    data read from "dataRN.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 42
+function used for fitting: a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.2685577113e+02   0.00e+00  3.46e+01    1.000000e+00   1.000000e+00
+   4 1.2134795519e+02  -1.35e-03  3.46e-03    1.002354e+00   1.375010e-02
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 121.348
+rel. change during last iteration : -1.3496e-08
+
+degrees of freedom    (FIT_NDF)                        : 40
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.74175
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.0337
+p-value of the Chisq distribution (FIT_P)              : 3.98367e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.00235          +/- 0.006065     (0.6051%)
+b               = 0.0137501        +/- 0.1796       (1306%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.425  1.000 
+
+
+*******************************************************************************
+Sat Sep 28 20:16:49 2024
+
+
+FIT:    data read from "dataRN878.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 8
+function used for fitting: a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.5615680137e+01   0.00e+00  5.11e+00    1.000000e+00   1.000000e+00
+   4 4.9948279864e+00  -9.71e-02  5.11e-04    1.433272e+00  -4.283390e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 4.99483
+rel. change during last iteration : -9.70505e-07
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.912399
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.832471
+p-value of the Chisq distribution (FIT_P)              : 0.544477
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.43327          +/- 0.05086      (3.548%)
+b               = -0.428339        +/- 1.416        (330.6%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.479  1.000 
+
+
+*******************************************************************************
+Sat Sep 28 23:22:13 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 8
+function used for fitting: a*x^c+b
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Sat Sep 28 23:23:14 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 8
+function used for fitting: a*x^c+b
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Sat Sep 28 23:23:43 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 8
+function used for fitting: a*x^c+b
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Sat Sep 28 23:23:48 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 8
+function used for fitting: a*x^c+b
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Sat Sep 28 23:24:52 2024
+
+
+FIT:    data read from "dataRN999.dat" using 1:2:(1/$4)
+        format = x:z:s
+        #datapoints = 8
+function used for fitting: a*x**c + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 2.2616571528e+26   0.00e+00  5.37e+09    1.000000e+00   1.000000e+00   1.000000e+00
+
+Current data point
+=========================
+#               = 1 out of 8
+x               = 51.2235        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 51.2235        
+b               = 1.00098        
+c               = 547.789        
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sat Sep 28 23:25:25 2024
+
+
+FIT:    data read from "dataRN999.dat" using 1:2:4
+        format = x:z:s
+        #datapoints = 8
+function used for fitting: a*x**c + b
+fitted parameters initialized with current variable values
+
+
+Current data point
+=========================
+#               = 1 out of 8
+x               = 51.2235        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 51.2235        
+b               = 1.00098        
+c               = 547.789        
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sat Sep 28 23:25:50 2024
+
+
+FIT:    data read from "dataRN999.dat" using 1:2
+        format = x:z
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*x**c + b
+fitted parameters initialized with current variable values
+
+
+Current data point
+=========================
+#               = 1 out of 8
+x               = 51.2235        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 51.2235        
+b               = 1.00098        
+c               = 547.789        
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sat Sep 28 23:54:18 2024
+
+
+FIT:    data read from "dataRN999.dat" using 1:2
+        format = x:z
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*x**c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             c            
+   0 9.7809144494e+16   0.00e+00  1.39e+05    1.000000e+00   1.000000e+00
+
+Current data point
+=========================
+#               = 1 out of 8
+x               = 45.0293        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 45.0293        
+c               = 523.12         
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sun Sep 29 00:00:47 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2
+        format = x:z
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit_func(x)
+	fit_func(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 9.7809144494e+16   0.00e+00  1.39e+05    1.000000e+00   1.000000e+00
+
+Current data point
+=========================
+#               = 1 out of 8
+x               = 45.0293        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 45.0293        
+b               = 523.12         
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sun Sep 29 00:02:37 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2
+        format = x:z
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: sqrt(fit_func(x))
+	fit_func(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 9.7840533810e+16   0.00e+00  3.36e+02    1.000000e+00   1.000000e+00
+
+Current data point
+=========================
+#               = 1 out of 8
+x               = 7494.11        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 7494.11        
+b               = 201743         
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sun Sep 29 00:03:26 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2
+        format = x:z
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit_func(x)
+	fit_func(x) = a*x**b
+fitted parameters initialized with current variable values
+
+
+Current data point
+=========================
+#               = 1 out of 8
+x               = 7494.11        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 7494.11        
+b               = 201743         
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sun Sep 29 00:04:56 2024
+
+
+FIT:    data read from "dataRN999.dat"
+        format = z
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*(x**b)
+
+
+*******************************************************************************
+Sun Sep 29 00:05:07 2024
+
+
+FIT:    data read from "dataRN999.dat"
+        format = z
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*(x**b)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 9.7809144494e+16   0.00e+00  1.39e+05    1.000000e+00   1.000000e+00
+
+Current data point
+=========================
+#               = 1 out of 8
+x               = 45.0293        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 45.0293        
+b               = 523.12         
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sun Sep 29 00:06:27 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 8
+function used for fitting: a*(x**b)
+
+
+*******************************************************************************
+Sun Sep 29 00:06:43 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:3
+        format = x:z:s
+BREAK: No data to fit
+
+*******************************************************************************
+Sun Sep 29 00:06:47 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2
+        format = x:z
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*(x**b)
+
+
+*******************************************************************************
+Sun Sep 29 00:06:53 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 8
+function used for fitting: a*(x**b)
+fitted parameters initialized with current variable values
+
+
+Current data point
+=========================
+#               = 1 out of 8
+x               = 45.0293        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 45.0293        
+b               = 523.12         
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sun Sep 29 00:07:53 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2
+        format = x:z
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*(x**b)
+fitted parameters initialized with current variable values
+
+
+Current data point
+=========================
+#               = 1 out of 8
+x               = 45.0293        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 45.0293        
+b               = 523.12         
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sun Sep 29 00:09:14 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2
+        format = x:z
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*(x**b)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 9.7809144494e+16   0.00e+00  1.39e+05    1.000000e+00   1.000000e+00
+
+Current data point
+=========================
+#               = 1 out of 8
+x               = 45.0293        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 45.0293        
+b               = 523.12         
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sun Sep 29 00:09:27 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:3
+        format = x:z:s
+BREAK: No data to fit
+
+*******************************************************************************
+Sun Sep 29 00:09:31 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 8
+function used for fitting: a*(x**b)
+fitted parameters initialized with current variable values
+
+
+Current data point
+=========================
+#               = 1 out of 8
+x               = 45.0293        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 45.0293        
+b               = 523.12         
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sun Sep 29 00:09:56 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:3
+        format = x:z:s
+BREAK: No data to fit
+
+*******************************************************************************
+Sun Sep 29 00:09:58 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 5
+function used for fitting: a*(x**b)
+fitted parameters initialized with current variable values
+
+
+Current data point
+=========================
+#               = 1 out of 5
+x               = 45.0293        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 45.0293        
+b               = 523.12         
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sun Sep 29 00:10:08 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 4
+function used for fitting: a*(x**b)
+fitted parameters initialized with current variable values
+
+
+Current data point
+=========================
+#               = 1 out of 4
+x               = 45.0293        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 45.0293        
+b               = 523.12         
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sun Sep 29 00:10:14 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 3
+function used for fitting: a*(x**b)
+fitted parameters initialized with current variable values
+
+
+Current data point
+=========================
+#               = 1 out of 3
+x               = 45.0293        
+z               = 21.0734        
+
+Current set of parameters
+=========================
+a               = 45.0293        
+b               = 523.12         
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sun Sep 29 00:30:59 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 8
+function used for fitting: fit_func(x)
+	fit_func(x) = a * x**c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             c            
+   0 5.5905869892e+07   0.00e+00  6.40e+01    1.000000e+00   1.000000e+00
+  26 4.1393588540e+03  -5.87e-02  6.40e+02    1.291832e-01   1.996882e+00
+
+After 26 iterations the fit converged.
+final sum of squares of residuals : 4139.36
+rel. change during last iteration : -5.86691e-07
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 26.2658
+variance of residuals (reduced chisquare) = WSSR/ndf   : 689.893
+p-value of the Chisq distribution (FIT_P)              : 0
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.129183         +/- 0.004646     (3.597%)
+c               = 1.99688          +/- 0.003439     (0.1722%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.995  1.000 
+
+
+*******************************************************************************
+Sun Sep 29 00:33:53 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 8
+function used for fitting: fit_func(x)
+	fit_func(x) = a*x**c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             c            
+   0 4.1393588540e+03   0.00e+00  3.91e+04    1.291832e-01   1.996882e+00
+   1 4.1393588540e+03  -2.20e-10  3.91e+07    1.291832e-01   1.996882e+00
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 4139.36
+rel. change during last iteration : -2.19719e-15
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 26.2658
+variance of residuals (reduced chisquare) = WSSR/ndf   : 689.893
+p-value of the Chisq distribution (FIT_P)              : 0
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.129183         +/- 0.004646     (3.597%)
+c               = 1.99688          +/- 0.003439     (0.1722%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.995  1.000 
+
+
+*******************************************************************************
+Sun Sep 29 00:34:18 2024
+
+
+FIT:    data read from "dataRN999.dat" u 1:2:4
+        format = x:z:s
+        #datapoints = 8
+function used for fitting: fit_func(x)
+	fit_func(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 5.5999364011e+07   0.00e+00  8.26e+00    1.291832e-01   1.000000e+00
+  15 4.1393641593e+03  -1.69e-02  8.26e-03    1.291702e-01   1.996892e+00
+
+After 15 iterations the fit converged.
+final sum of squares of residuals : 4139.36
+rel. change during last iteration : -1.68645e-07
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 26.2658
+variance of residuals (reduced chisquare) = WSSR/ndf   : 689.894
+p-value of the Chisq distribution (FIT_P)              : 0
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.12917          +/- 0.004646     (3.597%)
+b               = 1.99689          +/- 0.00344      (0.1722%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.995  1.000 
+
+
+*******************************************************************************
+Sun Sep 29 01:41:10 2024
+
+
+FIT:    data read from "dataRN888.dat"
+        format = z
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: a*(x**b)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.4503850606e+03   0.00e+00  1.39e+05    1.000000e+00   1.000000e+00
+   6 1.6202694988e+03  -1.11e-02  1.39e-01    1.009741e+00   9.991687e-01
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1620.27
+rel. change during last iteration : -1.11464e-07
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 16.433
+variance of residuals (reduced chisquare) = WSSR/ndf   : 270.045
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.00974          +/- 0.008923     (0.8837%)
+b               = 0.999169         +/- 0.0008183    (0.0819%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.999  1.000 
